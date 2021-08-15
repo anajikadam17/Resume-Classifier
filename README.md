@@ -52,5 +52,13 @@ New data is text files which is store in predTextFile/ Folder which convert in d
 ## Dataset
 Kaggle Dataset [Link](https://www.kaggle.com/gauravduttakiit/resume-dataset)
 
+# Dash_App_Project
+
+## Project Video Demo:
+[Part 1](https://drive.google.com/file/d/1GXJUp8NrnO8bNRC93e5uC3bHbma6e1kD/view?usp=sharing)
+-------
+[Part 2](https://drive.google.com/file/d/1dwPWjkoSEAWRGLkabtKkpSeANdqkocJC/view?usp=sharing)
+----------------------
+
 ## Future work
 Improve Model performance.
